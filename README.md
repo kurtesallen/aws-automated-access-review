@@ -102,12 +102,12 @@ This project demonstrates **real-world cloud security practices**, including lea
 
 | Risk Factor            | Condition                      | Score |
 | ---------------------- | ------------------------------ | ----- |
-| Unused Identity        | No activity in last 90 days    | +65   |
+| Unused Identity        | No activity in last 90 days    | +75   |
 
 
 ---
 
-## 🚦 Risk Levels
+## Risk Levels
 
 | Score  | Risk Level | Action           |
 | ------ | ---------- | ---------------- |
