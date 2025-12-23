@@ -1,4 +1,3 @@
-# aws-access-review-system
 
 
 # Automated AWS Access Review System
