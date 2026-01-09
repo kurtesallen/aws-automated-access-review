@@ -36,7 +36,7 @@ class AccessReviewStack(Stack):
 
         # Subscribe an email address (replace with yours)
         alert_topic.add_subscription(
-            subscriptions.EmailSubscription("name@mail.com") #Add your email here. 
+            subscriptions.EmailSubscription("grc@rockstar.com") #Add your email here. 
         )
 
         # IAM Role for Lambda (least privilege)
